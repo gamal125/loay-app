@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084426224654",
+    "project_id": "loay-app-24ab4",
+    "storage_bucket": "loay-app-24ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084426224654:android:8d920f5379d125107de85f",
+        "android_client_info": {
+          "package_name": "com.example.loay_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084426224654-84u4onkoqpuk9lq61k14arg8pmmd7quk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjODn9-GHF1Q63B6ZS8WiZbWCIlDffTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084426224654-84u4onkoqpuk9lq61k14arg8pmmd7quk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
